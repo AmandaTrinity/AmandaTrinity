@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=FE428E&section=header&descAlign=63&reversal=true"/>
+
   <h1 style="font-size: 28px; margin: 10px 0;">Oiii! Eu sou a Amanda Trinity</h1>
   <p><b>Desenvolvedora Frontend | Graduanda em Ciência da Computação @ CIn-UFPE 🎓</b></p>
 </div>

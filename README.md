@@ -13,9 +13,6 @@
   <a href="https://github.com/AmandaTrinity">
     <img height="180em" src="https://github-readme-stats-ashen-kappa-48.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/AmandaTrinity">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaTrinity&theme=radical" alt="GitHub Streak" />
-  </a>
 </div>
 
 <br />
@@ -44,13 +41,24 @@
 
 ---
 
-### 🚀 Sobre Mim
+---
 
-Atualmente focada no ecossistema **Frontend**, busco criar interfaces intuitivas, performáticas e acessíveis.
+## 👩‍💻 Sobre Mim
 
-- 🏗️ Construindo aplicações modernas com **React** e **Angular**.
-- 🎨 Olhar técnico apurado para transformar designs do **Figma** em realidade.
-- 🎓 Estudante de Ciência da Computação, sempre explorando as novidades do **TypeScript**.
+<table align="center">
+  <tr>
+    <td width="50%" style="vertical-align: top;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=false&vCenter=true&width=435&lines=Focada+no+Ecossistema+Frontend;Desenvolvendo+com+React+e+Angular;Transformando+Figma+em+C%C3%B3digo;Graduanda+de+C.C.+no+CIn-UFPE" alt="Typing SVG" />
+      
+  <p>Desenvolvedora com base técnica sólida, vinda de um curso técnico em <b>Desenvolvimento de Sistemas</b> e atualmente expandindo os horizontes na graduação de <b>Ciência da Computação pelo CIn-UFPE</b>.</p> 
+  <p> Atualmente meu foco é no <b>Front-end</b>, onde busco criar interfaces performáticas, modernas e acessíveis utilizando tecnologias de ponta.</p>     
+  
+  <p>💡 <b>No momento:</b> Aprofundando em arquitetura de componentes e TypeScript avançado.</p>
+  </td>
+  <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaTrinity&theme=radical" alt="GitHub Streak" />
+  </tr>
+</table>
 
 ---
 

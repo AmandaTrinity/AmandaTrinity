@@ -1,25 +1,53 @@
-<h2 align="left">👩🏽‍💻 Amanda Trinity</h2>
+<div align="center">
+  <h1 style="font-size: 28px; margin: 10px 0;">Oiii! Eu sou a Amanda Trinity</h1>
+  <p><b>Desenvolvedora Frontend | Graduanda em Ciência da Computação @ CIn-UFPE 🎓</b></p>
+</div>
 
-###
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaTrinity&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</div>
 
-<p align="left">Me chamo Amanda Trinity, tenho 18 anos e comecei minha trajetória na tecnologia ainda no ensino técnico de desenvolvimento de sistemas, no qual tive meu primeiro contato com os bastidores da construção de sistemas. Hoje, estou graduando em Ciência da Computação pelo Centro de Informática da UFPE (CIn), e venho consolidando meu caminho em desenvolvimento de software com experiências reais em diferentes frentes.<br><br>Atuei como UX Designer durante o desenvolvimento de produtos digitais, participando desde a concepção dos fluxos até a criação de MVPs navegáveis, sempre em diálogo direto com desenvolvedores. Esse processo me despertou o interesse por algo além da interface: entender como tudo funciona por trás. Desde então, venho me aprofundando no back-end, com foco em APIs, arquitetura de sistemas, testes unitários e boas práticas com frameworks como NestJS e Python.<br><br>Gosto de ambientes onde o aprendizado é constante e colaborativo, e sigo construindo soluções que façam sentido para quem usa — e também para quem desenvolve.</p>
+<br />
 
-###
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+<br />
 
-###
+<div align="center">
+  <a href="www.linkedin.com/in/amanda-trinity-6b377123b">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amanda.trinitygomes@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+---
+
+### 🚀 Sobre Mim
+
+Atualmente focada no ecossistema **Frontend**, busco criar interfaces intuitivas, performáticas e acessíveis.
+
+- 🏗️ Construindo aplicações modernas com **React** e **Angular**.
+- 🎨 Olhar técnico apurado para transformar designs do **Figma** em realidade.
+- 🎓 Estudante de Ciência da Computação, sempre explorando as novidades do **TypeScript**.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaTrinity&theme=radical" alt="GitHub Streak" />
 </div>

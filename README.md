@@ -4,11 +4,12 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaTrinity&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/AmandaTrinity">
+    <img height="180em" src="https://github-readme-stats-ashen-kappa-48.vercel.app/api?username=AmandaTrinity&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical" />
+  
+  <a href="https://github.com/AmandaTrinity">
+    <img height="180em" src="https://github-readme-stats-ashen-kappa-48.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical" />
   </a>
 </div>
 

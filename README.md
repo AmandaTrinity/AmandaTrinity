@@ -31,7 +31,7 @@
 <br />
 
 <div align="center">
-  <a href="www.linkedin.com/in/amanda-trinity-6b377123b">
+  <a href="[www.linkedin.com/in/amanda-trinity-6b377123b](https://www.linkedin.com/in/amanda-trinity-6b377123b/)">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amanda.trinitygomes@gmail.com">

@@ -7,11 +7,11 @@
 
 <div align="center">
   <a href="https://github.com/AmandaTrinity">
-    <img height="180em" src="https://github-readme-stats-ashen-kappa-48.vercel.app/api?username=AmandaTrinity&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats-amanda-trinitys-projects.vercel.app/api?username=AmandaTrinity&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
   </a>
   
   <a href="https://github.com/AmandaTrinity">
-    <img height="180em" src="https://github-readme-stats-ashen-kappa-48.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats-amanda-trinitys-projects.vercel.app/api/top-langs/?username=AmandaTrinity&layout=compact&langs_count=8&theme=radical&count_private=true&cache_seconds=1800" />
   </a>
 </div>
 

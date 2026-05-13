@@ -52,8 +52,7 @@
         <p> Atualmente meu foco é no <b>Front-end</b>, onde busco criar interfaces performáticas, modernas e acessíveis utilizando tecnologias de ponta.</p>     
  <p></p> Atualmente sigo com foco em me tornar uma <b></b>Desenvolvedora Full Stack</b>, fortalecendo minhas habilidades em Front-end enquanto aprofundo conhecimentos em Back-end, buscando construir aplicações completas, performáticas e escaláveis.</p>
 
-💡 No momento: Aprofundando em arquitetura de componentes, TypeScript avançado e fundamentos de desenvolvimento Back-end.
-  <p>💡 <b>No momento:</b> Aprofundando em arquitetura de componentes e TypeScript avançado.</p>
+<p>💡 No momento: Aprofundando em arquitetura de componentes, TypeScript avançado e fundamentos de desenvolvimento Back-end.</p>
   </td>
   <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaTrinity&theme=radical" alt="GitHub Streak" />

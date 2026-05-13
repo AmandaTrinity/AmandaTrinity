@@ -49,7 +49,6 @@
   <tr>
     <td width="50%" style="vertical-align: top;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE428E&center=false&vCenter=true&width=435&lines=Focada+no+Ecossistema+Frontend;Desenvolvendo+com+React+e+Angular;Transformando+Figma+em+C%C3%B3digo;Graduanda+de+C.C.+no+CIn-UFPE" alt="Typing SVG" />
-        <p> Atualmente meu foco é no <b>Front-end</b>, onde busco criar interfaces performáticas, modernas e acessíveis utilizando tecnologias de ponta.</p>     
  <p></p> Atualmente sigo com foco em me tornar uma <b></b>Desenvolvedora Full Stack</b>, fortalecendo minhas habilidades em Front-end enquanto aprofundo conhecimentos em Back-end, buscando construir aplicações completas, performáticas e escaláveis.</p>
 
 <p>💡 No momento: Aprofundando em arquitetura de componentes, TypeScript avançado e fundamentos de desenvolvimento Back-end.</p>
